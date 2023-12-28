@@ -38,4 +38,4 @@ async def delete_note(ctx, note_index: int):
         await ctx.send('Invalid note index.')
 
 # Bot token
-bot.run('MTE4OTk5NTI3NTg2ODE3NjQyNA.GEmrG9.iUwtlpvWXrC9qNBpuMl9GBjCMJlH6gVQUe-BBY')
+bot.run('YOUR-TOKEN-HERE')
