@@ -6,6 +6,8 @@ Discord NoteBot is a simple and versatile note-taking bot for Discord, designed 
 
 ![OIG](https://github.com/MatinMollapur01/notePad-discord-bot/assets/127895108/0c018fc1-800c-4ab8-8997-7bb840f91780)
 
+![Screenshot from 2023-12-28 13-32-05](https://github.com/MatinMollapur01/notePad-discord-bot/assets/127895108/b3f9b166-cdb7-417c-a558-7d032b384c86)
+
 
 ## Features
 - **Create Note:** Quickly create and store notes with a command.
